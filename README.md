@@ -4,13 +4,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Sahil Nishad</h1>
 <h4 align="center">Since my childhood, I've harbored a profound curiosity about the mechanics of apps and websites. This early interest evolved into a formal pursuit when, after completing my 12th, I delved into a Bachelor's in Computer Applications (BCA). During my journey through higher education, I seized the opportunity to enroll in a Full Stack Web Development course at Prepleaf by Masai. ✨.</h4>
 
-🌍 I'm based in Delhi, India
+🌍 I'm based in Ayodhya, India
 
 ⚛️ Some technologies that I love to working with includes  Javascript, React, Html, CSS, and Python.
 
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
-😃 My interest includes Cybersecurity & Blockchain technology.
+😃 My interest includes AI & Blockchain technology.
 
 📧 Email - sahilroyal91@gmail.com
 
